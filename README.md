@@ -1,4 +1,4 @@
-Hey, my name is Ata and I'm a 2nd year at Wash U in the [Complex Memory Lab](https://sites.wustl.edu/complexmemlab/#:~:text=We%20are%20a%20cognitive%20neuroscience,neurocognitive%20aging%20affects%20these%20processes).
+Hey, my name is Ata and I'm a 3rd year at Wash U in the [Complex Memory Lab](https://sites.wustl.edu/complexmemlab/#:~:text=We%20are%20a%20cognitive%20neuroscience,neurocognitive%20aging%20affects%20these%20processes).
 
 I'm a big fan of Python and am trying to write better code with some RSE principles in mind. 
 
